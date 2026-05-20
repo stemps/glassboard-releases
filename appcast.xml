@@ -1,11 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!-- Seed feed. `generate_appcast` (run by CI) appends <item> entries with
      version, enclosure URL, length and sparkle:edSignature for each release. -->
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>Glassboard</title>
-    <link>https://stemps.github.io/glassboard-releases/appcast.xml</link>
-    <description>Most recent changes for Glassboard.</description>
-    <language>en</language>
-  </channel>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Glassboard</title>
+        <link>https://stemps.github.io/glassboard-releases/appcast.xml</link>
+        <description>Most recent changes for Glassboard.</description>
+        <language>en</language>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 20 May 2026 13:38:27 +0000</pubDate>
+            <link>https://stemps.github.io/glassboard-releases/</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/stemps/glassboard-releases/releases/download/v0.0.1/Glassboard-1.0.0.dmg" length="1716262" type="application/octet-stream" sparkle:edSignature="C50u9DJMEs92k3lNXWB9C/YHL6pktVJRTcEq1mq4U/uXTjPsBz7HknOm3VPutHelmvRQ7d2IeRAtO9otG/RaCg=="/>
+        </item>
+    </channel>
 </rss>
