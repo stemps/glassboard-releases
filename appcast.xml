@@ -15,7 +15,8 @@
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/stemps/glassboard-releases/releases/download/v0.0.1/Glassboard-1.0.0.dmg" length="1716262" type="application/octet-stream" sparkle:edSignature="C50u9DJMEs92k3lNXWB9C/YHL6pktVJRTcEq1mq4U/uXTjPsBz7HknOm3VPutHelmvRQ7d2IeRAtO9otG/RaCg=="/>
+            <enclosure url="https://github.com/stemps/glassboard-releases/releases/download/v0.1.0/Glassboard-1.0.0.dmg" length="3557187" type="application/octet-stream" sparkle:edSignature="WsW5H+mKE9Ad6ZzhAz0y6HhhtRUgvsaI+GOYbdAMgoOcy8eHYBM7J776OpbKWEcsEKje7FyQWSNU9U8gm9svBA=="/>
+            <sparkle:releaseNotesLink>https://stemps.github.io/glassboard-releases/Glassboard-1.0.0.md</sparkle:releaseNotesLink>
         </item>
     </channel>
 </rss>
