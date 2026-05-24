@@ -8,6 +8,16 @@
         <description>Most recent changes for Glassboard.</description>
         <language>en</language>
         <item>
+            <title>0.1.3</title>
+            <pubDate>Sun, 24 May 2026 13:16:05 +0000</pubDate>
+            <link>https://stemps.github.io/glassboard-releases/</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://stemps.github.io/glassboard-releases/Glassboard-0.1.3.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/stemps/glassboard-releases/releases/download/v0.1.3/Glassboard-0.1.3.dmg" length="3640874" type="application/octet-stream" sparkle:edSignature="e30vuJNLvip8XaSOl4SWXSIIBFiC86LMAe9VSjaR6wjFhiUXM+G8Thn5hpvEGV8oEdX9uZMfS3dk3Xk1zvIKDQ=="/>
+        </item>
+        <item>
             <title>0.1.2</title>
             <pubDate>Sun, 24 May 2026 12:32:54 +0000</pubDate>
             <link>https://stemps.github.io/glassboard-releases/</link>
