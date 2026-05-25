@@ -8,6 +8,16 @@
         <description>Most recent changes for Glassboard.</description>
         <language>en</language>
         <item>
+            <title>0.1.4</title>
+            <pubDate>Mon, 25 May 2026 12:33:18 +0000</pubDate>
+            <link>https://stemps.github.io/glassboard-releases/</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://stemps.github.io/glassboard-releases/Glassboard-0.1.4.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/stemps/glassboard-releases/releases/download/v0.1.4/Glassboard-0.1.4.dmg" length="3640910" type="application/octet-stream" sparkle:edSignature="HPOveEU8pFe/WyTgpaSubk0ZkBGrxzM6Ral3c0UPUerserC/4nRAg1cGpKDQTsBhLs0rbtzRdTDfTgJHz0vLDQ=="/>
+        </item>
+        <item>
             <title>0.1.3</title>
             <pubDate>Sun, 24 May 2026 13:16:05 +0000</pubDate>
             <link>https://stemps.github.io/glassboard-releases/</link>
@@ -26,16 +36,6 @@
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://stemps.github.io/glassboard-releases/Glassboard-0.1.2.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/stemps/glassboard-releases/releases/download/v0.1.2/Glassboard-0.1.2.dmg" length="3640859" type="application/octet-stream" sparkle:edSignature="vOxCSn6CIZMPdxj2TbB9sZdf1N6PFUv5SV20DBZ1/LR59D90VQoMBIALrZP+bUYcksRIqrcIl3fc/pmMEvKjAw=="/>
-        </item>
-        <item>
-            <title>0.1.1</title>
-            <pubDate>Sun, 24 May 2026 11:56:05 +0000</pubDate>
-            <link>https://stemps.github.io/glassboard-releases/</link>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://stemps.github.io/glassboard-releases/Glassboard-0.1.1.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/stemps/glassboard-releases/releases/download/v0.1.1/Glassboard-0.1.1.dmg" length="3634284" type="application/octet-stream" sparkle:edSignature="UooGtunu683glUg2juN44bVsNCAPf3Us5PY44P/olnaVkJGv3Tot46wMRgzOm40KLUx9p74bll+HCYZQpEDWAA=="/>
         </item>
         <item>
             <title>1.0.0</title>
